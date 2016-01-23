@@ -7,7 +7,7 @@ description: 蔡宇煜的博客
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
-baseurl: "/Tornado-Jekyll-Blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/Tornado-Jekyll-Blog" # the subpath of your site, e.g. /blog/
 url: "http://yinyizhixian.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  Tornado
